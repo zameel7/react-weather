@@ -6,4 +6,4 @@ export const geoApiOptions = {
 	}
 };
 
-export const GEO_API_URL = REACT_RAPID_API_URL
+export const GEO_API_URL = process.env.REACT_RAPID_API_URL
