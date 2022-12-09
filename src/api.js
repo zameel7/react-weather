@@ -7,3 +7,5 @@ export const geoApiOptions = {
 };
 
 export const GEO_API_URL = process.env.REACT_APP_RAPID_API_URL
+
+export const WEATHER_API_URL = process.env.WEATHER_API_URL
